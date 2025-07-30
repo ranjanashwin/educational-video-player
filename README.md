@@ -57,7 +57,7 @@ Getting Started
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ranjanashwin/educational-video-player
 cd educational-video-player-assessment
 npm install
 ```
